@@ -5,7 +5,6 @@ import { FiEdit3, FiTrash } from 'react-icons/fi';
 import { Container } from './styles';
 
 import api from '../../services/api';
-import { isatty } from 'tty';
 
 interface IFoodPlate {
   id: number;
